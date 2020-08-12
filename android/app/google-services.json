@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "171966069122",
+    "firebase_url": "https://stad-project-ab608.firebaseio.com",
+    "project_id": "stad-project-ab608",
+    "storage_bucket": "stad-project-ab608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171966069122:android:c98c66d3d2480deefc779b",
+        "android_client_info": {
+          "package_name": "com.transporttravelgo.stad_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171966069122-u8t62sq97liiba25qmns8buhecn7mo40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC464pX1B84y_bfIz-Ex0_hhbZrsatanPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171966069122-u8t62sq97liiba25qmns8buhecn7mo40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
